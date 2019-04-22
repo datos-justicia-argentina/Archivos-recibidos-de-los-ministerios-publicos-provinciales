@@ -4,7 +4,7 @@ Datos recibidos de los ministerios públicos provinciales
 En este conjunto de datos se presentan los datos recibidos de los ministerios públicos provinciales según lo establecido en el "Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia versión II".
 
 http://datos.jus.gob.ar/dataset/datos-recibidos-de-los-ministerios-publicos-provinciales
-----------------------------------------------------------------------------------------
+
 
 Características
 ---------------
@@ -32,7 +32,7 @@ Recursos disponibles
 
 -   **Descripción del contenido:** Contiene los archivos remitidos por el ministerio público de cada provincia en el año AAAA. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según el "Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia versión II", (tabla1, tabla1.1, tabla2 y tabla2.1) y número de orden de la tabla dentro del envío.
 
--   **Formato:** CSV delimitado por comas, codificado en UTF-8
+-   **Formato:** ZIP
 
 -   **Rango temporal:** archivos remitidos por los ministerios públicos de cada provincia en el año AAAA
 
@@ -40,7 +40,7 @@ Recursos disponibles
 
 -   **id_caso (string):** código que identifica el caso. Cada provincia usa su propio formato de identificación de caso
 
--   **id _circunscripcion (string):** indica la unidad geográfica en que está divida la institución
+-   **id_circunscripcion (string):** indica la unidad geográfica en que está dividida la institución
 
 -   **id_unidad_mp (string):** nombre de la unidad fiscal donde se inicia el caso
 
@@ -56,7 +56,7 @@ Recursos disponibles
 
 -   **cantidad_menores_involucrados_identificados (int):** cantidad numérica de presuntos autores del hecho, que son menores de edad (menores de 18 años)
 
-### Campos del recurso (tabla1_1) CASOS – DELITOS
+### Campos del recurso (tabla1.1) CASOS – DELITOS
 
 -   **id_caso (string):** código que identifica el caso. Cada provincia usa su propio formato de identificación de caso
 
@@ -84,7 +84,7 @@ Recursos disponibles
 
 -   **fecha_decision (date):** fecha de la decisión del caso
 
-### Campos del recurso (tabla2_1) PERSONAS – CASO
+### Campos del recurso (tabla2.1) PERSONAS – CASO
 
 -   **id_caso (string):** código que identifica el caso. Cada provincia usa su propio formato de identificación de caso
 
@@ -92,7 +92,7 @@ Recursos disponibles
 
 -   **item_caso (string):** código que permite distinguir a las distintas personas denunciadas en un caso, las cuales sean objeto de una decisión. Las decisiones que afectan a los casos con autores no identificados, toma valor “0” (cero) como valor del campo
 
--   **persona_sexo (string):** género del denunciado correspondiente al acto procesal. Toma los valores "M" para masculino y "F" para femenino
+-   **persona_sexo (string):** sexo del denunciado correspondiente al acto procesal. Toma los valores "M" para masculino y "F" para femenino
 
 -   **persona_edad (string):** edad del denunciado correspondiente al acto procesal. Si el denunciado es mayor de 65 años toma el valor 65+
 
@@ -114,21 +114,21 @@ Recursos disponibles
 
 -   **institucion_nombre (string):** nombre de la institución que remitió datos para su publicación
 
--   **envio_fecha (string):** fecha en la que se realizó el envío. Tiene el formato AAAA-MM-DD
+-   **envio_fecha (string):** fecha en la que el ministerio público provincial realizó el envío de datos. La fecha de envío y la fecha correspondiente a los dato puede no tener relación. Tiene el formato AAAA-MM-DD
 
--   **envio_tabla (string):** nombre de la tabla que se envió. Toma los valores:
+-   **envio_tabla (string):** nombre de la tabla que fue enviada por el ministerio público provincial. Toma los valores:
 
 	-   tabla1
 
-	-   tabla1_1
+	-   tabla1.1
 
 	-   tabla2
 
-	-   tabla2_1
+	-   tabla2.1
 
--   **publicacion_nombre_csv (string):** nombre del archivo publicado en formato csv
+-   **publicacion_nombre_csv (string):** nombre del archivo publicado en formato csv. Este corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según el "Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia versión II", (tabla1, tabla1.1, tabla2 y tabla2.1) y número de orden de la tabla dentro del envío
 
--   **publicacion_nombre_zip (string):** nombre del archivo publicado en formato zip
+-   **publicacion_nombre_zip (string):** nombre del archivo publicado en formato zip. Este mantiene la siguiente estructura:mp_datos_recibidos_AAAA
 
 ### Notas
 
