@@ -38,7 +38,7 @@ Recursos disponibles
 
 ### Archivos del recurso
 
-### TABLA1 - CASOS
+**Tabla1 - CASOS
 
 - **Nombre del recurso:** nombre_provincia-mp-AAAAMMDD-tabla1-casos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
@@ -62,7 +62,11 @@ Recursos disponibles
 
 -   **cantidad_menores_involucrados_identificados (int):** cantidad numérica de presuntos autores del hecho, que son menores de edad (menores de 18 años)
 
-### Campos del recurso (tabla1.1) DELITOS
+**Tabla1.1 - DELITOS
+
+- **Nombre del recurso:** nombre_provincia-mp-AAAAMMDD-tabla1-1-delitos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
+
+### Campos del recurso
 
 -   **id_caso (string):** código que identifica el caso. Cada provincia usa su propio formato de identificación de caso
 
@@ -72,7 +76,11 @@ Recursos disponibles
 
 -   **tentativa (string):** indica si el delito se produjo en grado de tentativa correspondiente a ese denunciado y al acto procesal. Toma los valores SI/NO
 
-### Campos del recurso (tabla2) DECISIONES
+**Tabla2 - DECISIONES
+
+- **Nombre del recurso:** nombre_provincia-mp-AAAAMMDD-tabla2-decisiones-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
+
+### Campos del recurso
 
 -   **id_caso (string):** código que identifica el caso. Cada provincia usa su propio formato de identificación de caso
 
@@ -90,7 +98,12 @@ Recursos disponibles
 
 -   **fecha_decision (date):** fecha de la decisión del caso
 
-### Campos del recurso (tabla2.1) PERSONAS
+
+**Tabla2.1 - PERSONAS
+
+- **Nombre del recurso:** nombre_provincia-mp-AAAAMMDD-tabla2-1-personas-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
+
+### Campos del recurso
 
 -   **id_caso (string):** código que identifica el caso. Cada provincia usa su propio formato de identificación de caso
 
@@ -120,7 +133,7 @@ Recursos disponibles
 
 -   **institucion_nombre (string):** nombre de la institución que remitió datos para su publicación
 
--   **envio_fecha (string):** fecha en la que el ministerio público provincial realizó el envío de datos. La fecha de envío y la fecha correspondiente a los dato puede no tener relación. Tiene el formato AAAA-MM-DD
+-   **envio_fecha (string):** fecha en la que el ministerio público provincial realizó el envío de datos.la fecha de envío no está directamente relacionada con las fechas de casos informadas. Los períodos informados pueden ser mensuales o abarcar períodos más largos. Tiene el formato AAAA-MM-DD
 
 -   **envio_tabla (string):** nombre de la tabla que fue enviada por el ministerio público provincial. Toma los valores:
 
