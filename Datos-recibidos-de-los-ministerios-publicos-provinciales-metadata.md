@@ -1,7 +1,7 @@
 Datos recibidos de los ministerios públicos provinciales
 ========================================================
 
-En este conjunto de datos se presentan los datos recibidos de los ministerios públicos provinciales según lo establecido en el "Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia versión II".
+En este conjunto de datos se presentan los datos recibidos de los ministerios públicos provinciales según lo establecido en el [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf).
 
 http://datos.jus.gob.ar/dataset/datos-recibidos-de-los-ministerios-publicos-provinciales
 
