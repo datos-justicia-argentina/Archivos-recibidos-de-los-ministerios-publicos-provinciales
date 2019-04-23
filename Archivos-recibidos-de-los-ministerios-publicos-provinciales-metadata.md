@@ -1,9 +1,9 @@
-Datos recibidos de los ministerios públicos provinciales
+Archivos recibidos de los ministerios públicos provinciales
 ========================================================
 
-En este conjunto de datos se presentan los datos recibidos de los ministerios públicos provinciales según lo establecido en el [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf).
+En este conjunto de datos se presentan los archivos recibidos de los ministerios públicos provinciales según lo establecido en el [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf).
 
-http://datos.jus.gob.ar/dataset/datos-recibidos-de-los-ministerios-publicos-provinciales
+http://datos.jus.gob.ar/dataset/archivos-recibidos-de-los-ministerios-publicos-provinciales
 
 
 Características
@@ -26,15 +26,15 @@ Características
 Recursos disponibles
 --------------------
 
-### Datos recibidos de los ministerios públicos provinciales - AAAA
+### Arcivos recibidos de los ministerios públicos provinciales - AAAA
 
--   **Nombre:** mp-datos-recibidos-AAAA.zip
+-   **Nombre:** mp-archivos-recibidos-AAAA.zip
 
 -   **Descripción del contenido:** Contiene los archivos remitidos por el ministerio público de cada provincia en el año AAAA. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según el [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf), (tabla1, tabla1.1, tabla2 y tabla2.1) y número de orden de la tabla dentro del envío.
 
 -   **Formato:** ZIP
 
--   **Rango temporal:** archivos remitidos por los ministerios públicos de cada provincia en el año AAAA
+-   **Rango temporal:** archivos recibidos por los ministerios públicos de cada provincia en el año AAAA
 
 ### Archivos del recurso
 
