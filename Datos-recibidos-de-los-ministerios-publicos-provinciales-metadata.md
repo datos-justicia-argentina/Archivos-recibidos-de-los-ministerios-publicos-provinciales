@@ -38,7 +38,7 @@ Recursos disponibles
 
 ### Archivos del recurso
 
-**Tabla1 - CASOS
+### Tabla1 - CASOS
 
 - **Nombre del recurso:** nombre_provincia-mp-AAAAMMDD-tabla1-casos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
@@ -62,7 +62,7 @@ Recursos disponibles
 
 -   **cantidad_menores_involucrados_identificados (int):** cantidad numérica de presuntos autores del hecho, que son menores de edad (menores de 18 años)
 
-**Tabla1.1 - DELITOS
+### Tabla1.1 - DELITOS
 
 - **Nombre del recurso:** nombre_provincia-mp-AAAAMMDD-tabla1-1-delitos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
@@ -76,7 +76,7 @@ Recursos disponibles
 
 -   **tentativa (string):** indica si el delito se produjo en grado de tentativa correspondiente a ese denunciado y al acto procesal. Toma los valores SI/NO
 
-**Tabla2 - DECISIONES
+### Tabla2 - DECISIONES
 
 - **Nombre del recurso:** nombre_provincia-mp-AAAAMMDD-tabla2-decisiones-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
@@ -99,7 +99,7 @@ Recursos disponibles
 -   **fecha_decision (date):** fecha de la decisión del caso
 
 
-**Tabla2.1 - PERSONAS
+### Tabla2.1 - PERSONAS
 
 - **Nombre del recurso:** nombre_provincia-mp-AAAAMMDD-tabla2-1-personas-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
