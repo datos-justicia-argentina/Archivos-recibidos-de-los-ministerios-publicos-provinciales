@@ -117,7 +117,7 @@ Recursos disponibles
 
 ### Índice de datos recibidos de los ministerios públicos provinciales - AAAA
 
--   **Nombre:** ministerio-publico-indice-archivos-remitidos-AAAA.csv
+-   **Nombre:** indice-archivos-remitidos-ministerios-publicos-AAAA.csv
 
 -   **Descripción del contenido:** índice de los archivos recibidos de los ministerios públicos en el año AAAA en el marco del Convenio Interjurisdiccional de Datos Abiertos de Justicia.
 
