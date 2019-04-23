@@ -30,13 +30,19 @@ Recursos disponibles
 
 -   **Nombre:** mp-datos-recibidos-AAAA.zip
 
--   **Descripción del contenido:** Contiene los archivos remitidos por el ministerio público de cada provincia en el año AAAA. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según el "Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia versión II", (tabla1, tabla1.1, tabla2 y tabla2.1) y número de orden de la tabla dentro del envío.
+-   **Descripción del contenido:** Contiene los archivos remitidos por el ministerio público de cada provincia en el año AAAA. El nombre de cada archivo corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según el [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf), (tabla1, tabla1.1, tabla2 y tabla2.1) y número de orden de la tabla dentro del envío.
 
 -   **Formato:** ZIP
 
 -   **Rango temporal:** archivos remitidos por los ministerios públicos de cada provincia en el año AAAA
 
-### Campos del recurso (tabla1) CASOS
+### Archivos del recurso
+
+### TABLA1 - CASOS
+
+- **Nombre del recurso:** nombre_provincia-mp-AAAAMMDD-tabla1-casos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
+
+### Campos del recurso
 
 -   **id_caso (string):** código que identifica el caso. Cada provincia usa su propio formato de identificación de caso
 
@@ -56,7 +62,7 @@ Recursos disponibles
 
 -   **cantidad_menores_involucrados_identificados (int):** cantidad numérica de presuntos autores del hecho, que son menores de edad (menores de 18 años)
 
-### Campos del recurso (tabla1.1) CASOS – DELITOS
+### Campos del recurso (tabla1.1) DELITOS
 
 -   **id_caso (string):** código que identifica el caso. Cada provincia usa su propio formato de identificación de caso
 
@@ -66,7 +72,7 @@ Recursos disponibles
 
 -   **tentativa (string):** indica si el delito se produjo en grado de tentativa correspondiente a ese denunciado y al acto procesal. Toma los valores SI/NO
 
-### Campos del recurso (tabla2) DELITO - DECISIONES - PERSONAS
+### Campos del recurso (tabla2) DECISIONES
 
 -   **id_caso (string):** código que identifica el caso. Cada provincia usa su propio formato de identificación de caso
 
@@ -84,7 +90,7 @@ Recursos disponibles
 
 -   **fecha_decision (date):** fecha de la decisión del caso
 
-### Campos del recurso (tabla2.1) PERSONAS – CASO
+### Campos del recurso (tabla2.1) PERSONAS
 
 -   **id_caso (string):** código que identifica el caso. Cada provincia usa su propio formato de identificación de caso
 
