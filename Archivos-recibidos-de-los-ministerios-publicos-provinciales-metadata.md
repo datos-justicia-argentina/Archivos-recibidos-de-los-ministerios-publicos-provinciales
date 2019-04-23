@@ -174,3 +174,7 @@ Recursos disponibles
 [Código Procesal Penal de la provincia de Río Negro Ley 5.020](http://servicios.jusrionegro.gov.ar/inicio/web/normativa/documentacion/CPP%202017-TA-mayo%202017.pdf)
 
 [Código Procesal Penal de la provincia de Salta Ley 7.690](http://inecip.org/wp-content/uploads/C%C3%B3digo-Procesal-Penal-Salta.pdf)
+
+[Código Procesal Penal de la provincia de Santa Fe Ley 12.734](http://www.justiciasantafe.gov.ar/ckfinder/userfiles/files/legislacion/codigos/4476.pdf)
+
+[Código Procesal Penal de la provincia de Santiago del Estero Ley 6.941](http://www.jussantiago.gov.ar/jusnueva/Normativa/Ley6941.php)
