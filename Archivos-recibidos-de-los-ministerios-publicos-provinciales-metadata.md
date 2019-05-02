@@ -40,7 +40,7 @@ Recursos disponibles
 
 ### Tabla1 - CASOS
 
-- **Nombre del recurso:** nombre_provincia-mp-AAAAMMDD-tabla1-casos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
+- **Nombre del recurso:** nombre-provincia-mp-AAAAMMDD-tabla1-casos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
 ### Campos del recurso
 
@@ -64,7 +64,7 @@ Recursos disponibles
 
 ### Tabla1.1 - DELITOS
 
-- **Nombre del recurso:** nombre_provincia-mp-AAAAMMDD-tabla1-1-delitos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
+- **Nombre del recurso:** nombre-provincia-mp-AAAAMMDD-tabla1-1-delitos-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
 ### Campos del recurso
 
@@ -78,7 +78,7 @@ Recursos disponibles
 
 ### Tabla2 - DECISIONES
 
-- **Nombre del recurso:** nombre_provincia-mp-AAAAMMDD-tabla2-decisiones-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
+- **Nombre del recurso:** nombre-provincia-mp-AAAAMMDD-tabla2-decisiones-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
 ### Campos del recurso
 
@@ -101,7 +101,7 @@ Recursos disponibles
 
 ### Tabla2.1 - PERSONAS
 
-- **Nombre del recurso:** nombre_provincia-mp-AAAAMMDD-tabla2-1-personas-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
+- **Nombre del recurso:** nombre-provincia-mp-AAAAMMDD-tabla2-1-personas-9.csv (AAAAMMDD corresponde a la fecha de envío - 9 corresponde al número de ocurrencia del archivo dentro del paquete remitido).
 
 ### Campos del recurso
 
@@ -147,7 +147,7 @@ Recursos disponibles
 
 -   **publicacion_nombre_csv (string):** nombre del archivo publicado en formato csv. Este corresponde al nombre de provincia, institución, fecha de envío, nombre de las tablas remitidas según el "Protocolo de Implementación del Convenio Interjurisdiccional de Datos Abiertos de Justicia versión II", (tabla1, tabla1.1, tabla2 y tabla2.1) y número de orden de la tabla dentro del envío
 
--   **publicacion_nombre_zip (string):** nombre del archivo publicado en formato zip. Este mantiene la siguiente estructura:mp_datos_recibidos_AAAA
+-   **publicacion_nombre_zip (string):** nombre del archivo publicado en formato zip. Este mantiene la siguiente estructura:mp-datos-recibidos-AAAA
 
 ### Notas
 
