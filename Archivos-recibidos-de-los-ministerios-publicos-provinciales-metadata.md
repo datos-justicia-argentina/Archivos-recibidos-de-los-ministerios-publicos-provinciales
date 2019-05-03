@@ -159,6 +159,8 @@ Recursos disponibles
 
 [Protocolo de implementación del convenio interjurisdiccional de datos abiertos de justicia - Versión II](https://github.com/datos-justicia-argentina/Protocolo-de-implementacion-Convenio-Interjurisdiccional-de-Datos-Judiciales-Abiertos-version-II/blob/master/Protocolo%20de%20Implementaci%C3%B3n%20del%20Convenio%20Interjurisdiccional%20de%20Datos%20Abiertos%20de%20Justicia%20versi%C3%B3n%20II.pdf)
 
+[Código Penal de la Nación Ley 11.179](http://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16546/texact.htm)
+
 [Código Procesal Penal de la Ciudad Autónoma de Buenos Aires Ley 2.303](http://inecip.org/wp-content/uploads/C%C3%B3digo-Procesal-Penal-CABA-1.pdf)
 
 [Código Procesal Penal de la provincia de Buenos Aires Ley 11.922](http://server1.gob.gba.gov.ar/legislacion/legislacion/l-11922.html)
