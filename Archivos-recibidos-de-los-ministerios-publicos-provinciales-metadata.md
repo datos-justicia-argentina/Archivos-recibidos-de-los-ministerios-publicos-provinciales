@@ -111,7 +111,7 @@ Recursos disponibles
 
 -   **item_caso (string):** código que permite distinguir a las distintas personas denunciadas en un caso, las cuales sean objeto de una decisión. Las decisiones que afectan a los casos con autores no identificados, toma valor “0” (cero) como valor del campo
 
--   **persona_sexo (string):** sexo del denunciado correspondiente al acto procesal. Toma los valores "M" para masculino y "F" para femenino
+-   **persona_genero (string):** género del denunciado correspondiente al acto procesal. Toma los valores "M" para masculino y "F" para femenino
 
 -   **persona_edad (string):** edad del denunciado correspondiente al acto procesal. Si el denunciado es mayor de 65 años toma el valor 65+
 
