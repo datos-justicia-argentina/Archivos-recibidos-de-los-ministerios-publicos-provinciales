@@ -127,7 +127,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **provincia_indec_id (string):** código de provincia del Ministerio Público que remitió datos para su publicación, según la codificación implementada por INDEC
+-   **provincia_id (string):** código de provincia del Ministerio Público que remitió datos para su publicación, según la codificación implementada por INDEC
 
 -   **provincia_nombre (string):** nombre de provincia del Ministerio Público que remitió datos para su publicación
 
